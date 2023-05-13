@@ -22,4 +22,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 * **Footer**: Sección que incluye hipervícnulos al final de la página. 
 
 ## Objetivo del proyecto 
-Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3
+Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
